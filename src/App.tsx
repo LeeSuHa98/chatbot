@@ -6,7 +6,7 @@ const BodyCss = styled('div')`
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-
+  background-color: #ffffff;
 `
 function App() {
   return (
